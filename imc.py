@@ -25,3 +25,5 @@
 
     else
     print("obsidade morfica")
+
+print("A")

@@ -14,4 +14,4 @@ media = float(nota1 + nota2/2)
     print("aluno aprovado")
 else:
     print("aluno aprovado")
-print("...........")
+    print("..........")
