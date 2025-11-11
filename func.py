@@ -1,1 +1,0 @@
-print("ola ! bem-vindo ao projeto-git")
